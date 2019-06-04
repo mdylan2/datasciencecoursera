@@ -4,3 +4,5 @@
 This repository contains a few programming assignments I completed for the Data Science Specialization offered by John's Hopkins University on Coursera [[Link]](https://www.coursera.org/specializations/jhu-data-science?).
 
 The repository is organized by course number and name. Each folder has a README or PDF describing the assignment/task. 
+
+**Note:** I have paused my participation in this course for the time being due to other external commitments.
